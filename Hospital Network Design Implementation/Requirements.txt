@@ -1,0 +1,59 @@
+Requirements
+
+To successfully run and explore this project, ensure the following software and hardware requirements are met.
+
+Software Requirements
+Cisco Packet Tracer 8.2 or later (recommended: latest available version)
+Windows 10/11, Linux, or macOS
+A Cisco Networking Academy account (required to download Cisco Packet Tracer if not already installed)
+Hardware Requirements
+Dual-core processor (Intel Core i3/Ryzen 3 or higher recommended)
+Minimum 4 GB RAM (8 GB recommended)
+At least 500 MB of available storage
+Minimum screen resolution of 1366 × 768
+Networking Knowledge
+
+A basic understanding of the following topics will help you understand and modify the project:
+
+IPv4 Addressing and Subnetting
+VLANs and Trunking
+Inter-VLAN Routing
+OSPF Routing Protocol
+Static Routing
+DHCP
+SSH
+Port Security
+Access Control Lists (ACLs)
+Network Address Translation (NAT/PAT)
+IPSec Site-to-Site VPN
+Wireless LAN Configuration
+Project Contents
+
+The Packet Tracer project includes implementation of:
+
+Enterprise hierarchical network architecture
+Headquarters and Branch office topology
+VLAN segmentation for all departments
+Dynamic IP addressing using DHCP
+Static IP addressing for servers
+Inter-VLAN Routing
+OSPF dynamic routing
+Default static routes
+SSH for secure device management
+Port Security using Sticky MAC addresses
+Extended ACLs
+Site-to-Site IPSec VPN
+PAT for Internet connectivity
+Wireless networking
+End-to-end connectivity testing
+Getting Started
+Clone or download this repository.
+Open the .pkt file using Cisco Packet Tracer 8.2 or later.
+Wait for the simulation to fully load.
+Use Realtime or Simulation mode to inspect network behavior.
+Review device configurations using the Cisco IOS CLI to understand the implementation.
+Notes
+
+This project is intended for educational and portfolio purposes.
+All configurations were created and tested in Cisco Packet Tracer.
+Some enterprise features may differ slightly from real Cisco hardware implementations due to Packet Tracer limitations.
